@@ -1,0 +1,2 @@
+# FattyRAT
+Transformice auto-login
